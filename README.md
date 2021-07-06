@@ -1,7 +1,7 @@
 # My Interpreter
 A canceled project that uses .NET uses the YandexTranslate and Systran API. 
 
-Project was cancelled due to Yandex API limitation to allow one translation per day. The API keys will also be censored. 
+Project was cancelled due to Yandex API limitation (free version) to allow one translation per day. The API keys will also be censored. 
 
 The project was originally meant to be a message app, but due to limitations, it was not possible. Only the .NET API was completed. 
 
